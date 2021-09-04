@@ -3,7 +3,7 @@ package basic;
 public class WhileExample1 {
 
 	public static void main(String[] args) {
-		int num = 1;
+		int num = 2;
 		int sum =0;
 		
 		while(num <= 10) {
